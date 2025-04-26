@@ -1,4 +1,4 @@
-**# GitHub Workshop Review Project**
+**#GitHub Workshop Review Project**
 
 This project is built by the **CSS Team** using **Django** to collect participant reviews for our Git and GitHub workshop.
 
