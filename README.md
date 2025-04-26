@@ -1,4 +1,4 @@
-#**GitHub Workshop Review Project**
+**GitHub Workshop Review Project**
 
 This project is built by the **CSS Team** using **Django** to collect participant reviews for our Git and GitHub workshop.
 
@@ -7,7 +7,7 @@ The reviews are loaded dynamically and displayed through a Django web app.
 
 ---
 
-**# 📄 JSON File Format**
+**📄 JSON File Format**
 
 Each participant must create a JSON file with the following structure:
 
@@ -32,14 +32,14 @@ Each participant must create a JSON file with the following structure:
 
 ---
 
-**# 💻 Tech Stack**
+**💻 Tech Stack**
 
 - **Backend**: Django (Python)
 - **Data Storage**: JSON files for participant reviews
 
 ---
 
-**# 🛠️ Project Goals**
+**🛠️ Project Goals**
 
 - Practice real-world Git and GitHub workflows.
 - Understand the complete Git process: `git init`, `git add`, `git commit`, `git push`, and `git pull`.
@@ -58,7 +58,7 @@ A **Pull Request** (PR) is when you ask to merge your changes into a repository.
 
 ---
 
-**# ❤️ Special Thanks**
+**❤️ Special Thanks**
 
 Thanks to all **CSS Club** members and participants for making this event successful! 🚀
 
